@@ -69,7 +69,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-856f83220602.js"></script>
   
 
-  <title>Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/README.md at master · siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers</title>
+  <title>Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/script.js at master · siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers</title>
 
 
 
@@ -79,7 +79,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="DBAA:331F:157C12A:1833A73:64567141" data-turbo-transient="true" /><meta name="html-safe-nonce" content="78993bda1a44d941e07ec309d4bed80cfc6b4d5b163aeebb6e2f61c5d2c1631f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zaWRkYXJ0aGExOS9Db3Vyc2VyYS1IVE1MLUNTUy1hbmQtSmF2YVNjcmlwdC1mb3ItV2ViLURldmVsb3BlcnMvdHJlZS9tYXN0ZXIvQXNzaWdubWVudHMvbW9kdWxlLTQiLCJyZXF1ZXN0X2lkIjoiREJBQTozMzFGOjE1N0MxMkE6MTgzM0E3Mzo2NDU2NzE0MSIsInZpc2l0b3JfaWQiOiIzNjA2NjUwMjcwMzEwODgzOTIiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="58c60548cc92edad198e3afa32660a54be5ed4e5062f96227e4c471f1de5cbec" data-turbo-transient="true" />
+  <meta name="request-id" content="DBAA:331F:157D78F:18354AB:64567191" data-turbo-transient="true" /><meta name="html-safe-nonce" content="78993bda1a44d941e07ec309d4bed80cfc6b4d5b163aeebb6e2f61c5d2c1631f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zaWRkYXJ0aGExOS9Db3Vyc2VyYS1IVE1MLUNTUy1hbmQtSmF2YVNjcmlwdC1mb3ItV2ViLURldmVsb3BlcnMvdHJlZS9tYXN0ZXIvQXNzaWdubWVudHMvbW9kdWxlLTQiLCJyZXF1ZXN0X2lkIjoiREJBQTozMzFGOjE1N0Q3OEY6MTgzNTRBQjo2NDU2NzE5MSIsInZpc2l0b3JfaWQiOiIzNjA2NjUwMjcwMzEwODgzOTIiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="91de28182be7e1f995291eb1720ec036ebc322d90122c7d4aead733028cbb703" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:161624078" data-turbo-transient>
@@ -113,16 +113,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/README.md at master · siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers">
+      <meta name="description" content="This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/script.js at master · siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/65ba318d209241a6fa6666676688d63f33b6107512e3a5b25a064f592113ed26/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/README.md at master · siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta name="twitter:description" content="This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/README.md at mas..." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/65ba318d209241a6fa6666676688d63f33b6107512e3a5b25a064f592113ed26/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta property="og:image:alt" content="This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/README.md at mas..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/README.md at master · siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta property="og:url" content="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta property="og:description" content="This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/README.md at mas..." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/65ba318d209241a6fa6666676688d63f33b6107512e3a5b25a064f592113ed26/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/script.js at master · siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta name="twitter:description" content="This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/script.js at mas..." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/65ba318d209241a6fa6666676688d63f33b6107512e3a5b25a064f592113ed26/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta property="og:image:alt" content="This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/script.js at mas..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/script.js at master · siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta property="og:url" content="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" /><meta property="og:description" content="This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/script.js at mas..." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/111179273/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTExNzkyNzMsInMiOjExMTIzMTgxMTUsImMiOjE1NjE2NjI1NDgsInQiOjE2ODMzODY2OTZ9--80010817f1d282a1d9ab5ee9567911a320b9f18e31b59360055ce0f9cd12af7f" data-refresh-url="/_alive" data-session-id="11895fc7a037c61269d4b9835d014a129fe3d7848ac59a6618286fedc14305cc">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/111179273/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTExNzkyNzMsInMiOjExMTIzMTgxMTUsImMiOjQwMDQzNzcxODYsInQiOjE2ODMzODY3NzN9--d34a16c1da20029ca7122894c726da5e56dcc4cae5a347f287308e9688ebb383" data-refresh-url="/_alive" data-session-id="11895fc7a037c61269d4b9835d014a129fe3d7848ac59a6618286fedc14305cc">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -151,7 +151,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -244,7 +244,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="v8_eHeZzTXAqTUClZCzSIoq4UBYdLVx7XDpjegPyF_uxelauMmx53l2A-zjLPlHswAUWu_pOehOBcF6uHnN0Sw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="hpTvhJxEq551ZUmrc-q3pzprOdx3Lfbra4IUVT4epLGIIWc3SFufMAKo8jbc-DRpcNZ_cZBO0IO2yCmBI5_HAQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -443,7 +443,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;talktoseize&quot;,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="f2cc659c0b095da685b4d81d2db4cb754b8ab70996e9ad131936fde35fd40661" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;talktoseize&quot;,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="e3684de5cb391303c63bd138f9b3a489efaf77f2f6ab2b7c556cc2faf1331f31" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -451,7 +451,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/111179273?s=40&amp;v=4" width="20" height="20" alt="@talktoseize" />
       talktoseize
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Gcb0sFUNmSABDy-EzuVt6d9bozmkXytQ7iHM524fdvpmEfhojA-RUlBjad9upzQkE7OX27anrfcegzP5AeVIKw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nBt3xybw_3T3ZmZ20uyvvdJY0_C6yfa20vxere1ByinjzHsf__L3BqYKIC1yrvZwHrDnEqgxcBEiXqGzgrv0-A" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -486,7 +486,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTExMTc5MjczIiwidCI6MTY4MzM4NjY5Nn0=--21cca8e5ecbda8e11a61a11e383a320ae765c0d856eadc0b26297e388a1e794e" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTExMTc5MjczIiwidCI6MTY4MzM4Njc3M30=--bacd570f568476bea4453dc5dfc665e5de1e90948498eb751f791704dc9e6598" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -629,7 +629,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTExMTc5MjczIiwidCI6MTY4MzM4NjY5Nn0=--21cca8e5ecbda8e11a61a11e383a320ae765c0d856eadc0b26297e388a1e794e" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTExMTc5MjczIiwidCI6MTY4MzM4Njc3M30=--bacd570f568476bea4453dc5dfc665e5de1e90948498eb751f791704dc9e6598" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -646,7 +646,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md
+      return-to=/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js
       user-id="111179273"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -803,7 +803,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-b216f15b-da78-463c-979c-3a955745563b" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-ccb0074d-ba09-49a3-a0ea-0ddae3b46b5e" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1649,11 +1649,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="0eff5b6180e9d589851bd8a9bf729b98d961fe5946a82c84f28aa012a33e71d9" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="f1ffeb153c601c824e4b047a3c4edd8c4de742812e3079b67143249f32acc8d0" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="724" data-view-component="true" class="Counter">724</span>
-</a>    <tool-tip id="tooltip-86f6e07f-48db-4412-b042-b7da17843ba2" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers</tool-tip>
+</a>    <tool-tip id="tooltip-0419f8d0-a83f-436f-a178-1f870057806e" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-161624078" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1668,13 +1668,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-bca246">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-40b3b4">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-bca246"
+        id="filter-menu-40b3b4"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1716,10 +1716,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PkgBEifQ1GwO8gHTClCe1m7WEIw-reqr-zwjT0x3-urYBMLF2ML_UfEHCDWyehhPA7H4HgR-YuP_7yja7trJ2w" autocomplete="off" />
-          <input type="hidden" value="MgCGmpPznaYH_-EjBDyhK0mtz2zxw1ZUqIwwi6L-4NTUTEVNbOG2m_gK6MW8FieyJMon_ssQ3hysXzseAFPT5Q" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yEagdyuS2jkYeXEWYaVU10tkwLi2oXm7t7JzGrxyKU0uCmOg1IDxBOeMePDZj9JOJgMoKoxy8fOzYXiPHt8afA" autocomplete="off" />
+          <input type="hidden" value="XJSTjC56ROcgACqgsM0gSN-pcyrtAk_19Ko93_Xmsu662FBb0Whv2t_1I0YI56bRss6buNfRx73weTZKV0uB3w" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="f7ea05572432860a7773025cd59e1363685f4a951bba059aa95dc78207943a48" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (73)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="dc96d2a2feff0234a979db2685ac51d4e1b29d676be4626ab461e716a6101ad0" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (73)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Starred
@@ -1737,13 +1737,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-02b9c7">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2e065e">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-02b9c7"
+        id="filter-menu-2e065e"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1764,9 +1764,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RJeyCSqOuhNji_T-hvlx6KeW83FHz-8616T40DfsgXOrytImKXKMBlVZA9Q0i4T9ZtlH58bnSdoRkWICywguJw" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6xmsJEYdm8s04w7n1YEllpNl8A2V4U9UQtPu3Eyz9z8ERMwLReGt3gIx-c1n89CDUipEmxTJ6bSE5nQOsFdYaw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="4f266cc8827cadd52574cdf131474deb7f133023cb9880a5d7fc332cc663ceac" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (73)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="11dc173f3af1a42aa36ac00cf948b65c0ac69b1371951a6d6d646d6937740d67" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (73)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Star
@@ -1784,13 +1784,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-bbdc37">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-86f018">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-bbdc37"
+        id="filter-menu-86f018"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1988,7 +1988,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/script.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1996,7 +1996,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="7f4da7ab699707909ad85e80169e78eeac040c881230de50c43cafc41864e5ba">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="d9e163931fe0ab4238057ed0fedac80e0f75d767a0b85720adc251469ecd7216">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2077,7 +2077,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/{{ urlEncodedRefName }}/Assignments/module-4/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/{{ urlEncodedRefName }}/Assignments/module-4/script.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2119,7 +2119,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/{{ urlEncodedRefName }}/Assignments/module-4/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/{{ urlEncodedRefName }}/Assignments/module-4/script.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2180,7 +2180,48 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers"><span>Coursera-HTML-CSS-and-JavaScript-for-Web-Developers</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/tree/master/Assignments"><span>Assignments</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/tree/master/Assignments/module-4"><span>module-4</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers"><span>Coursera-HTML-CSS-and-JavaScript-for-Web-Developers</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/tree/master/Assignments"><span>Assignments</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/tree/master/Assignments/module-4"><span>module-4</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:161624078,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="1d9bdcc1b22379b7b9c0c85e792f31a9bb3321c1d7cbd55fee1a1660a892019d" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2191,7 +2232,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="caa31dc5751063694195dbcfc469cf7581a58c36e986f4caf4bc2dfc98b54307" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="4fe8ebe2cd460fae04777a8a14c220b9fbed6ce4fd2f0ad840646c28130473a2" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2201,15 +2242,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Assignments/module-4/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Assignments/module-4/script.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/script.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2240,17 +2287,80 @@
     <include-fragment src="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/spoofed_commit_check/15f29f58110a85e43e3e8cb2320bea88c7133724" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/contributors/master/Assignments/module-4/README.md" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/siddartha19/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/siddartha19"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/44056907?s=48&amp;v=4" width="24" height="24" alt="@siddartha19" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/siddartha19/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/siddartha19">siddartha19</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="Add files via upload" class="Link--secondary" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/commit/2843c8e165475c35efa003a1264e2e6c901648c0">Add files via upload</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/commit/2843c8e165475c35efa003a1264e2e6c901648c0/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/commit/2843c8e165475c35efa003a1264e2e6c901648c0" data-pjax>2843c8e</a>
+            <span itemprop="dateModified"><relative-time datetime="2018-12-27T14:03:42Z" class="no-wrap">Dec 27, 2018</relative-time></span>
+          </span>
+
+          <a data-pjax href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/commits/master/Assignments/module-4/script.js" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/contributors-list/master/Assignments/module-4/script.js" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+</div>
 
 
 
@@ -2263,68 +2373,31 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}"
-  data-menu-hydro-click-hmac="58a88a377ab68dff500e2676172a86dc37ef7ed8be40281029e8d692b6bfd87b"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="51e02f48353b4a7dec7fe9c672fbc87eabc7597bd9365865a7a74244296ffa74" href="#module-4-coding-assignment">Module-4 Coding Assignment</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="51e02f48353b4a7dec7fe9c672fbc87eabc7597bd9365865a7a74244296ffa74" href="#to-see-the-output-click-here">To see the output CLICK HERE</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      8 lines (3 sloc)
+      49 lines (40 sloc)
       <span class="file-info-divider"></span>
-    244 Bytes
+    1.2 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md?plain=1" data-permalink-href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</a>      <a href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md" data-permalink-href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/README.md" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/master/Assignments/module-4/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/script.js" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/master/Assignments/module-4/script.js" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blame/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/README.md" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blame/master/Assignments/module-4/README.md" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blame/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/script.js" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blame/master/Assignments/module-4/script.js" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -2333,7 +2406,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/edit/master/Assignments/module-4/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JXjjecjvWKMoYq8fzYhkW-M5eDznJEmhffgYo6MDfbdv0adqQNumleS3AvDfPYKghFTqLqpqWu2atR3oaIA5qQ" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/edit/master/Assignments/module-4/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NDgA7-bn34x09aK58xBtUurRKOcUOWc9k3UxsRipPUBCIeFaV9SUlWeSNCsVJogP380QGy6T4X7GC8WrJjErXQ" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -2343,7 +2416,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/edit/master/Assignments/module-4/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="s4dKApkzA9OWlepFDqRDbEg1-ji2U-USL69n9RqHNmj5Lg4REQf95VpAR6ocEaWXL1hoKvsd9l7I4mK-0QRydg" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/edit/master/Assignments/module-4/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1qAnuufTthbk8UHEhciWny7N7h5X0mnvNKc9BO2ab62gucYPVuD9D_eW11Zj_nPCG9HW4m1476xh2cke0wJ5sA" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2351,7 +2424,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers?branch=master&amp;filepath=Assignments%2Fmodule-4%2FREADME.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers?branch=master&amp;filepath=Assignments%2Fmodule-4%2Fscript.js" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2362,10 +2435,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/script.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="1891b382708daa8a3c18fd3b00b612551f67aa3a7aec768ccdfffbbdb7279ad1" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="d391f9e5a20fba3159f5c0ffeae88827858fca533138b0760885c8ff22ea8659" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
@@ -2390,7 +2463,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/delete/master/Assignments/module-4/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Zv3wR6ZP3ebH3vEtoHzngDail7mwsVZnzBHCwyZ9YGRJMv9e8adQyNNwp_esFzjLZKMGLmnZu3_kmPgUVqONwQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/delete/master/Assignments/module-4/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JLxQNDw36-7mqWkIxhgWnGl1L52wG9_xvf2zwqp4QZAw9Ucpu1k-0aBQx1fERIflZpK3qzZAsnYihuuyDldQDw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2403,7 +2476,7 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="Possible actions"
           
@@ -2418,20 +2491,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers?branch=master&amp;filepath=Assignments%2Fmodule-4%2FREADME.md">
+                   href="x-github-client://openRepo/https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers?branch=master&amp;filepath=Assignments%2Fmodule-4%2Fscript.js">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/master/Assignments/module-4/README.md">
+            <a class="dropdown-item" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/master/Assignments/module-4/script.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/master/Assignments/module-4/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/raw/master/Assignments/module-4/script.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/README.md&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="1891b382708daa8a3c18fd3b00b612551f67aa3a7aec768ccdfffbbdb7279ad1">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:161624078,&quot;originating_url&quot;:&quot;https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/master/Assignments/module-4/script.js&quot;,&quot;user_id&quot;:111179273}}" data-hydro-click-hmac="d391f9e5a20fba3159f5c0ffeae88827858fca533138b0760885c8ff22ea8659">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2454,20 +2527,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blame/master/Assignments/module-4/README.md">
+              <a class="dropdown-item" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blame/master/Assignments/module-4/script.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/edit/master/Assignments/module-4/README.md">Edit file</a>
+                <a class="dropdown-item" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/edit/master/Assignments/module-4/script.js">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:161624078,&quot;actor_id&quot;:111179273,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/delete/master/Assignments/module-4/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/delete/master/Assignments/module-4/script.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2475,16 +2548,269 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-module-4-coding-assignment" class="anchor" aria-hidden="true" href="#module-4-coding-assignment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Module-4 Coding Assignment</h1>
-<p dir="auto">Coursera course: HTML, CSS, and Javascript for Web Developers</p>
-<h1 tabindex="-1" dir="auto"><a id="user-content-to-see-the-output-click-here" class="anchor" aria-hidden="true" href="#to-see-the-output-click-here"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>To see the output <a href="https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html" rel="nofollow">CLICK HERE</a></h1>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="Assignments/module-4/script.js">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// ******************************* </span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// START HERE IF YOU WANT AN EASIER STARTING POINT FOR THIS ASSIGNMENT</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// *******************************</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Module 4 Assignment Instructions.</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// The idea of this assignment is to take an existing array of names</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// and then output either Hello &#39;Name&#39; or Good Bye &#39;Name&#39; to the console.</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// The program should say &quot;Hello&quot; to any name except names that start with a &quot;J&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// or &quot;j&quot;, otherwise, the program should say &quot;Good Bye&quot;. So, the final output</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// on the console should look like this:</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/*</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Yaakov</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Good Bye John</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Good Bye Jen</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Good Bye Jason</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Paul</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Frank</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Larry</span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Paula</span></td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Laura</span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Good Bye Jim</span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-c>WARNING!!! WARNING!!!</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-c>The code does NOT currently work! It is YOUR job to make it work</span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-c>as described in the requirements and the steps in order to complete this</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class=pl-c>assignment.</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-c>WARNING!!! WARNING!!!</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-c>*/</span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>(</span><span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-k>var</span> <span class=pl-s1>names</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-s>&quot;Yaakov&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;John&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Jen&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Jason&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Paul&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Frank&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Larry&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Paula&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Laura&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Jim&quot;</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>var</span> <span class=pl-s1>i</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span> <span class=pl-s1>i</span> <span class=pl-c1>&lt;</span> <span class=pl-s1>names</span><span class=pl-kos>.</span><span class=pl-c1>length</span><span class=pl-kos>;</span> <span class=pl-s1>i</span><span class=pl-c1>++</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>var</span> <span class=pl-s1>firstLetter</span> <span class=pl-c1>=</span> <span class=pl-s1>names</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-en>charAt</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>toLowerCase</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>firstLetter</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;j&#39;</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>byeSpeaker</span><span class=pl-kos>(</span><span class=pl-s1>names</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>helloSpeaker</span><span class=pl-kos>(</span><span class=pl-s1>names</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blame/15f29f58110a85e43e3e8cb2320bea88c7133724/Assignments/module-4/script.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
@@ -2497,6 +2823,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/find-definition"
+     data-tagsearch-ref="master"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
